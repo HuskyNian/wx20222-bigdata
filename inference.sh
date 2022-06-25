@@ -1,1 +1,2 @@
-python src/inference_kfold.py
+cd src/
+python inference_kfold.py
